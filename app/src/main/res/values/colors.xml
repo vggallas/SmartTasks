@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6D00</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#7E57C2</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gradientStart">#84fab0</color>
+    <color name="gradientEnd">#8fd3f4</color>
+
+</resources>
