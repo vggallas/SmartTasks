@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(Intent.ACTION_SEND);
             intent.setType("text/plain");
             intent.putExtra(Intent.EXTRA_SUBJECT, "SmartTasks - Gerenciador de Tarefas");
-            intent.putExtra(Intent.EXTRA_TEXT, "Conheça o app SmartTasks!");
+            intent.putExtra(Intent.EXTRA_TEXT, "Conheça o app SmartTasks! Confira o código fonte: https://github.com/vggallas/SmartTasks");
             startActivity(Intent.createChooser(intent, "Compartilhar via"));
         });
 
